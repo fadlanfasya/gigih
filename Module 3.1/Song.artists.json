@@ -1,0 +1,130 @@
+[{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f471a"
+  },
+  "name": "Taylor Swift",
+  "date_of_birth": "1993-06-13",
+  "genres": [
+    "Pop",
+    "Country"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f471b"
+  },
+  "name": "Daniel Caesar",
+  "date_of_birth": "1995-04-05",
+  "genres": [
+    "R&B",
+    "Soul"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f471c"
+  },
+  "name": "H.E.R",
+  "date_of_birth": "1997-06-27",
+  "genres": [
+    "R&B",
+    "Soul"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f471d"
+  },
+  "name": "Queen",
+  "date_of_birth": "1946-09-05",
+  "genres": [
+    "Rock",
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f471e"
+  },
+  "name": "Eagles",
+  "date_of_birth": "1971-07-06",
+  "genres": [
+    "Rock",
+    "Country"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f471f"
+  },
+  "name": "John Lennon",
+  "date_of_birth": "1940-10-09",
+  "genres": [
+    "Rock",
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f4720"
+  },
+  "name": "Bob Dylan",
+  "date_of_birth": "1941-05-24",
+  "genres": [
+    "Folk",
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f4721"
+  },
+  "name": "The Beatles",
+  "date_of_birth": "1960-08-01",
+  "genres": [
+    "Rock",
+    "Pop"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f4722"
+  },
+  "name": "Led Zeppelin",
+  "date_of_birth": "1968-07-01",
+  "genres": [
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f4723"
+  },
+  "name": "Nirvana",
+  "date_of_birth": "1987-01-01",
+  "genres": [
+    "Grunge",
+    "Rock"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f4724"
+  },
+  "name": "Michael Jackson",
+  "date_of_birth": "1958-08-29",
+  "genres": [
+    "Pop",
+    "R&B"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64b5522d3e3ec65ef79f4725"
+  },
+  "name": "Guns N' Roses",
+  "date_of_birth": "1985-03-01",
+  "genres": [
+    "Rock"
+  ]
+}]

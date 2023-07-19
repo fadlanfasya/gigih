@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342ba"
+  },
+  "title": {
+    "title": "Daylight",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "album": "Lover"
+  },
+  "play_count": 3500,
+  "period_of_time": "2020-2021"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342bb"
+  },
+  "title": {
+    "title": "Best Part",
+    "artists": [
+      "Daniel Cesar",
+      "H.E.R"
+    ],
+    "album": "Freudian"
+  },
+  "play_count": 10000,
+  "period_of_time": "2019-2020"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342bc"
+  },
+  "title": {
+    "title": "Bohemian Rhapsody",
+    "artists": [
+      "Queen"
+    ],
+    "album": "A Night at the Opera"
+  },
+  "play_count": 8000,
+  "period_of_time": "2022-2023"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342bd"
+  },
+  "title": {
+    "title": "Hotel California",
+    "artists": [
+      "Eagles"
+    ],
+    "album": "Hotel California"
+  },
+  "play_count": 4000,
+  "period_of_time": "2020-2021"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342be"
+  },
+  "title": {
+    "title": "Imagine",
+    "artists": [
+      "John Lennon"
+    ],
+    "album": "Imagine"
+  },
+  "play_count": 9000,
+  "period_of_time": "2019-2020"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342bf"
+  },
+  "title": {
+    "title": "Like a Rolling Stone",
+    "artists": [
+      "Bob Dylan"
+    ],
+    "album": "Highway 61 Revisited"
+  },
+  "play_count": 7000,
+  "period_of_time": "2019-2020"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342c0"
+  },
+  "title": {
+    "title": "Hey Jude",
+    "artists": [
+      "The Beatles"
+    ],
+    "album": "Hey Jude"
+  },
+  "play_count": 10000,
+  "period_of_time": "2019-2020"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342c1"
+  },
+  "title": {
+    "title": "Stairway to Heaven",
+    "artists": [
+      "Led Zeppelin"
+    ],
+    "album": "Led Zeppelin IV"
+  },
+  "play_count": 2000,
+  "period_of_time": "2020-2021"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342c2"
+  },
+  "title": {
+    "title": "Smells Like Teen Spirit",
+    "artists": [
+      "Nirvana"
+    ],
+    "album": "Nevermind"
+  },
+  "play_count": 7000,
+  "period_of_time": "2022-2023"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342c3"
+  },
+  "title": {
+    "title": "Thriller",
+    "artists": [
+      "Michael Jackson"
+    ],
+    "album": "Thriller"
+  },
+  "play_count": 6000,
+  "period_of_time": "2020-2021"
+},
+{
+  "_id": {
+    "$oid": "64b7b51a9061d4fb37a342c4"
+  },
+  "title": {
+    "title": "Sweet Child O' Mine",
+    "artists": [
+      "Guns N' Roses"
+    ],
+    "album": "Appetite for Destruction"
+  },
+  "play_count": 9000,
+  "period_of_time": "2022-2023"
+}]
